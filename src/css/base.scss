@@ -1,0 +1,9 @@
+@import './color';
+@import './typography';
+
+html, body {
+    background-color: $background-color;
+    font-family: $default-font-face;
+    line-height: normal;
+}
+  
