@@ -1,8 +1,8 @@
 import React from 'react'
 
-import '../css/base.scss'
+import './css/base.scss'
 
-function App () {
+const App = () => {
   return (
         <div>
             <h1>Hello World</h1>
